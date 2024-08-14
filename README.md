@@ -1,7 +1,5 @@
 # Hi there, I'm Fardeen! 👋
 
-![Profile Banner]([https://example.com/your-banner-image.png](https://www.shutterstock.com/image-illustration/blockchain-technology-futuristic-hud-background-600nw-1044225994.jpg))
-
 ## About Me
 
 I'm a **Full Stack Web Developer** and **Blockchain Developer** passionate about building impactful applications that solve real-world problems. I enjoy exploring new technologies and continuously improving my skill set.
