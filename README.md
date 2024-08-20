@@ -9,36 +9,6 @@ I'm a **Full Stack Web Developer** and **Blockchain Developer** passionate about
 - 👨‍💻 Contributing to open-source projects and actively participating in hackathons.
 - 🚀 Always eager to take on new challenges and collaborate on exciting projects.
 
-## Tech Stack
-
-**Languages**: 
-- JavaScript
-- TypeScript
-- Solidity
-- C++
-- HTML/CSS
-
-**Frameworks & Libraries**:
-- React
-- Node.js
-- Express
-- Next.js
-- Foundry
-
-**Blockchain**:
-- Ethereum
-- Smart Contracts
-- Chainlink VRF
-- zkSync
-
-**Tools & Platforms**:
-- Git & GitHub
-- Docker
-- VS Code
-- WSL 2
-- MongoDB
-- Prisma
-
 ## Get in Touch
 
 - **Twitter**: [@fardeen14693425](https://twitter.com/fardeen14693425)
@@ -46,8 +16,3 @@ I'm a **Full Stack Web Developer** and **Blockchain Developer** passionate about
 - **Email**: fardeenmansuri0316@gmail.com
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech and blockchain!
-
----
-
-*Made with ❤️ by Fardeen*
-
