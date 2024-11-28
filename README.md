@@ -1,1 +1,1 @@
-## Hi there👋
+19. full stack developer. just building
