@@ -1,1 +1,1 @@
-18.5. full stack developer. just building
+18.6. full stack developer. just building
