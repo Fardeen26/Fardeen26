@@ -1,1 +1,1 @@
-18.6 full stack developer. just building
+19. building and chasing mastery
